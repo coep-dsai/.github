@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=240&section=header&text=COEP%20Tech%20DS-AI%20Club&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Research%20%C2%B7%20Community&descAlignY=60&descSize=18" alt="COEP Tech's DS-AI Club banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=240&section=header&text=COEP%20Tech's%20DS-AI%20Club&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Research%20%C2%B7%20Community&descAlignY=60&descSize=18" alt="COEP Tech's DS-AI Club banner" width="100%"/>
 
 <a href="https://github.com/coep-dsai">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=720&lines=Learning+AI+by+building+it.;Agents+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Security+%C2%B7+Automation;Official+DS-AI+Club+of+COEP+Tech%2C+Pune.;Students+from+every+branch.+One+shared+curiosity." alt="Typing animation"/>
@@ -148,7 +148,7 @@ Joint projects and events with other clubs, departments and industry partners.
 
 <br/>
 
-*Made with 🧠 and ☕ by the students of COEP Tech DS-AI Club*
+*Made with 🧠 and ☕ by the students of COEP Tech's DS-AI Club*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0f172a&height=120&section=footer" alt="footer" width="100%"/>
 
