@@ -122,7 +122,7 @@ Joint projects and events with other clubs, departments and industry partners.
 | **2020** | **Predict-X**, an online data science hackathon with MindSpark; DSAI Live Sessions on computer vision |
 | **2023** | **Neurohack 2.0**, a Generative AI hackathon with MindSpark |
 | **2024** | Python workshop (50+ attendees) and an LLM guest lecture by a COEP alumnus |
-| **2026-27** | New website, agentic AI and LLM reliability projects, and an automated social presence |
+| **2026-27** | New website, agentic AI and LLM automation projects, and hosting MindSpark Neural Nexus |
 
 *Follow [@dsai_coep](https://www.instagram.com/dsai_coep/) for the latest event updates!*
 
